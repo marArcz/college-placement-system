@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="../../node_modules/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="../../assets/styles/css/custom.css">
+<link rel="stylesheet" href="../../assets/styles/css/typography.css">
+<link rel="stylesheet" href="../../node_modules/@flaticon/flaticon-uicons/css/all/all.css">
+<link rel="stylesheet" href="../../assets/styles/css/global.css">
+<link rel="stylesheet" href="../../assets/styles/css/admin.css">
+<link rel="stylesheet" href="../../node_modules/quill/dist/quill.core.css">
+<link rel="stylesheet" href="../../node_modules/quill/dist/quill.snow.css">
+<link rel="stylesheet" href="../../node_modules/datatables.net-dt/css/dataTables.dataTables.min.css">
+<link rel="stylesheet" href="../../assets/mz-calendar/css/calendar.css">

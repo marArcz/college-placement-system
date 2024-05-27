@@ -1,0 +1,137 @@
+.profile-pic-div,
+.image-div {
+  width: 30px;
+  height: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #4F4F4F;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 1px 1px 5px gray;
+}
+.profile-pic-div.sm,
+.image-div.sm {
+  width: 40px;
+  height: 40px;
+}
+.profile-pic-div.md,
+.image-div.md {
+  width: 120px;
+  height: 120px;
+}
+.profile-pic-div.lg,
+.image-div.lg {
+  width: 150px;
+  height: 150px;
+}
+.profile-pic-div.xl,
+.image-div.xl {
+  width: 200px;
+  height: 200px;
+}
+@media screen and (max-width: 1000px) {
+  .profile-pic-div.lg,
+  .image-div.lg {
+    width: 120px !important;
+    height: 120px !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  .profile-pic-div.xl,
+  .image-div.xl {
+    width: 40vw !important;
+    height: 40vw !important;
+  }
+}
+
+.section-nav .nav-link {
+  padding: 10px 15px !important;
+  border-radius: 5px;
+}
+.section-nav .nav-link.active {
+  background: rgba(138, 138, 138, 0.3) !important;
+  color: #245FAE !important;
+  font-weight: bold !important;
+}
+
+.text-profile-pic {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  font-weight: 300 !important;
+  align-items: center;
+  border-radius: 50%;
+  font-size: 0.8rem;
+  box-shadow: 2px 2px 5px rgb(173, 173, 173) !important;
+}
+.text-profile-pic.md {
+  width: 120px;
+  height: 120px;
+  font-size: 1.9rem;
+}
+.text-profile-pic.lg {
+  width: 150px !important;
+  height: 150px !important;
+  font-size: 1.9rem;
+}
+
+.btn-add {
+  display: block;
+  width: -moz-max-content;
+  width: max-content;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  font-size: 14px;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn-add i {
+  font-weight: bold !important;
+}
+
+.bg-img {
+  background-image: url("../../images/hero-bg.png");
+}
+
+.search-field {
+  display: flex;
+  width: 100%;
+  position: relative;
+  border: 1px solid rgb(108, 108, 108);
+  padding: 10px;
+  border-radius: 10px;
+}
+.search-field .search-icon {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.search-field .search-wrapper {
+  flex: 1;
+  flex-grow: 1;
+}
+.search-field input {
+  width: 100%;
+  padding-left: 45px;
+  height: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  outline: none;
+  padding-right: 25px;
+}
+.search-field .btn-wrapper {
+  background: white;
+}
+.search-field .btn-wrapper button {
+  height: 100%;
+}/*# sourceMappingURL=global.css.map */

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.2.1",
+    "@lottielab/lottie-player": "^1.0.3",
+    "bootstrap": "^5.3.3",
+    "datatables.net-dt": "^2.0.7",
+    "jquery": "^3.7.1",
+    "quill": "^2.0.2",
+    "simditor": "^2.3.28"
+  }
+}

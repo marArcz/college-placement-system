@@ -1,0 +1,35 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.container-fluid {
+  height: 100%;
+}
+
+.left-side {
+  background-color: #F8F9FA;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+.right-side {
+  background-image: url("../../images/login-bg.png");
+  /* Replace with your image URL */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-y: auto;
+}
+
+.input-control {
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 14px !important;
+}/*# sourceMappingURL=login.css.map */

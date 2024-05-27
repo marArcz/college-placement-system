@@ -1,0 +1,1 @@
+<?php include '../app/delete-job.php' ?>
