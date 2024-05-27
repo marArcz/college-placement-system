@@ -1,0 +1,5 @@
+.env
+node_modules
+vendor
+stii-college-placement-system.zip
+database/stii_cps.sql
