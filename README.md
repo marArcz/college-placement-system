@@ -12,11 +12,10 @@
 ##### Screenshots:
 
 ###### Student:
-!(student-1.png)
-!(student-2.png)
-!(student-3.png)
-!(student-4.png)
-!(student-5.png)
+!["landing page"](student-1.png)
+!["Login page"](student-2.png)
+!["Home page"](student-3.png)
+!["Profile page"](student-4.png)
 ###### Admin:
-!(admin-1.png)
-!(admin-2.png)
+![""](admin-1.png)
+![""](admin-2.png)
