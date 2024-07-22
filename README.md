@@ -1,5 +1,4 @@
-## Simple College Placement System 
-### (Freelance Project | 2024)
+## Simple College Placement System  (Freelance Project | 2024)
 #
 ##### Technology Used
 * PHP
